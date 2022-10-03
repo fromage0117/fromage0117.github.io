@@ -1,0 +1,20 @@
+body,
+html {
+  margin: 0;
+  font-family: 'Montserrat', serif;
+}
+
+main {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.head {
+  background: url(./single-garlic.jpg) 0 50% no-repeat;
+  background-size: cover;
+  height: 300px;
+}
+
+h1 {
+
+}
