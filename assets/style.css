@@ -12,6 +12,7 @@ main {
 .head {
   background: url(./single-garlic.jpg) 0 50% no-repeat;
   background-size: cover;
+  background-position: center;
   height: 300px;
 }
 
